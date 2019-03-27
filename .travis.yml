@@ -1,0 +1,6 @@
+dist: xenial
+before_install:
+  - sudo apt-get install hugo
+install:
+  - rm -rf public || exit -1
+  - hugo --theme=creative
