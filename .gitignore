@@ -1,0 +1,11 @@
+!.gitignore
+!archetypes
+!content
+!layouts
+!resources
+!themes
+!config.toml
+!data
+!public
+!static
+
