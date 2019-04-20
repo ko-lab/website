@@ -1,4 +1,4 @@
-baseurl = "https://verbruik.ko-lab.space/master/"
+baseurl = "http://verbruik.ko-lab.space/master/"
 languageCode = "en-us"
 title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
