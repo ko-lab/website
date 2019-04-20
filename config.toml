@@ -1,4 +1,4 @@
-baseurl = "http://verbruik.ko-lab.space/develop/"
+baseurl = "http://verbruik.ko-lab.space/test/"
 languageCode = "en-us"
 title = "Hackerspace Ko-lab"
 theme = "hugo-creative-theme"
