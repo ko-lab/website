@@ -48,7 +48,7 @@ googleAnalytics = ""
 
 	# About section
 	[params.about]
-		headline    = "What is Ko-lab?"
+		headline    = "What is a hackerspace?"
 		buttonText  = "Find out here!"
 
 
